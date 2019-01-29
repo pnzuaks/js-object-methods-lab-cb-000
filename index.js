@@ -1,6 +1,6 @@
 class President {
-  constructor() {
+  constructor(name) {
 
   }
-  
+
 }
