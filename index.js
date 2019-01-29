@@ -6,7 +6,7 @@ class President {
     this.homeState = homeState
   }
 
-  function veto() {
+  veto() {
     return "NO!"
   }
 
