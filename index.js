@@ -6,19 +6,19 @@ class President {
     this.homeState = homeState
   }
 
-  veto() {
+  this.veto() {
     return "NO!"
   }
-  passBill() {
+  this.passBill() {
     return "You can do that!"
   }
-  doCharity() {
+  this.doCharity() {
     return "I like to help people."
   }
-  conductPressInterview() {
+  this.conductPressInterview() {
     return "I am proud to be an American."
   }
-  sayHi() {
+  this.sayHi() {
     return 'Hi, my name is ${this.name}. I am from ${this.homestate}. I represent the ${this.politicalParty}s, and was in office ${this.yearsInOffice}.'
   }
 
