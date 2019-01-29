@@ -1,9 +1,8 @@
 class President {
   this.name = name
-    this.politicalParty = politicalParty
-    this.yearsInOffice = yearsInOffice
-    this.homeState = homeState
-
+  this.politicalParty = politicalParty
+  this.yearsInOffice = yearsInOffice
+  this.homeState = homeState
 
   this.veto = function() {
     return "NO!"
