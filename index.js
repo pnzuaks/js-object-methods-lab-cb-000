@@ -1,6 +1,6 @@
 class President {
-  constructor(name) {
-
+  constructor(name, politicalParty, yearsInOffice, homestate) {
+    
   }
 
 }
