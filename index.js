@@ -6,5 +6,5 @@ class President {
     this.homeState = homeState
   }
 
-  function veto( )
+  function veto() => 
 }
