@@ -17,7 +17,7 @@ function President(name, politicalParty, yearsInOffice, homeState) {
     return "I am proud to be an American."
   }
   this.sayHi = function() {
-    return `Hi, my name is ${this.name}. I am from ${this.homeState}, and I was trained in ${this.training}.`;
+    return `Hi, my name is ${this.name}. I am from ${this.homeState}. I represent thened in ${this.training}.`;
   }
 
 }
