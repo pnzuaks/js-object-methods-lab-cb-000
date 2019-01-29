@@ -19,7 +19,7 @@ class President {
     return "I am proud to be an American."
   }
   sayHi() {
-    return "Hi, my name is <name>. I am from <homestate>. I represent the <politicalParty>s, and was in office <yearsInOffice>."
+    return "Hi, my name is ${this.name}. I am from <homestate>. I represent the <politicalParty>s, and was in office <yearsInOffice>."
   }
 
 }
