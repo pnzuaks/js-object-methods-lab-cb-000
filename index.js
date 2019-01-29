@@ -1,4 +1,4 @@
-class President {
+func President {
   this.name = name
   this.politicalParty = politicalParty
   this.yearsInOffice = yearsInOffice
