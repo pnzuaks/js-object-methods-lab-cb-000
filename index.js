@@ -3,7 +3,8 @@ class President {
     this.name = name
     this.politicalParty = politicalParty
     this.yearsInOffice = yearsInOffice
-    this.homeState = 
+    this.homeState = homeState
   }
 
+  function veto( )
 }
