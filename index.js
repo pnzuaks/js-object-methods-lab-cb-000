@@ -6,10 +6,10 @@ class President {
     this.homeState = homeState
   }
 
-  this.veto() {
+  this.veto = function() {
     return "NO!"
   }
-  this.passBill() {
+  this.passBill = function() {
     return "You can do that!"
   }
   this.doCharity() {
